@@ -1,2 +1,2 @@
 # E-Commerce-
-This si about E-Commerce concepts
+This is about E-Commerce concepts
